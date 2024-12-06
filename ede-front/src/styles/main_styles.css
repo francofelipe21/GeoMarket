@@ -1,0 +1,35 @@
+.my_header{
+    background-color: beige;
+    height: 100px;
+}
+
+.login_form{
+    background-color:darkolivegreen;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    padding: 25px;
+}
+
+.signup_form{
+    width:80%;
+    padding:15px;
+    background-color: azure;
+    border-radius: 5px;
+    margin: 10%;
+}
+
+.login_form{
+    width:80%;
+    padding:15px;
+    background-color: azure;
+    border-radius: 5px;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.two_fields{
+    display: grid;
+    grid-template-columns: auto auto;
+}

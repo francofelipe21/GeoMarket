@@ -1,0 +1,38 @@
+.leaflet-container{
+  width:100vw;
+  height:100vh;
+}
+
+.form_container{
+  background-color: #0C509A;
+  color:aliceblue;
+  text-align: center;
+  padding: 10px;
+}
+
+.main_header{
+  background-color: #0C509A;
+  color:aliceblue;
+  text-align: center;
+  padding: 25px;
+}
+
+.trade_title{
+  text-align: center;
+  padding: 25px;
+}
+
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 10;
+  font-style: normal;
+}
+
+.subTitle{
+  position:fixed; top:"5px"; left:"5px"
+}
+
+.subTitle:hover{
+  cursor: pointer;
+}
